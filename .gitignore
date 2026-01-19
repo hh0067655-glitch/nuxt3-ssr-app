@@ -1,0 +1,15 @@
+﻿# Node
+node_modules/
+
+# Nuxt build artifacts
+.nuxt/
+.output/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
